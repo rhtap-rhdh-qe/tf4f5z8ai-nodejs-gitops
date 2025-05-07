@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tf4f5z8ai-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tf4f5z8ai-nodejs-gitops
